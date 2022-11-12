@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<!--Ala Alsharbini-->
+<!--Lucien Talavera-->
+<!--Mbargou Gueye-->
+<!--Martin Grill-Poblete-->
+<!--Project 2-->
+<!--24th Oct. 2018-->
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,shrink-to-fit=no"/>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="shortcut icon" href="media/ico.ico"/>
+    <title>Trident-WebDesigns Project 2</title>
+  </head>
+  <body id="home">
+    <header>
+      <div class="logo">
+        <img src="media/globe1.jpg" alt="globe" class="banner_pic">
+      </div>
+      <h1 class="title">International Society for Universal Dialogue</h1>
+      <nav class="nav">
+        <ul>
+          <li><a class="active" href="index.html">Home</a></li>
+          <li><a href="events.html">Events</a></li>
+          <li><a href="about.html">About Us</a></li>
+          <li><a href="const.html">Constitution</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <div id="slideShow">
+        <img class="slides" src="media/statue.jpg" alt="Statue">
+        <img class="slides" src="media/man.jpg" alt="Man Looking at the Ocean">
+        <img class="slides" src="media/monkey.jpg" alt="Monkey">
+        <img class="slides" src="media/dirtywater.jpg" alt="Dirty Water">
+      </div>
+      <div id="isud">
+        <h1>ISUD XII World Congress</h1>
+        <h2>Pontifical Catholic University of Peru</h2>
+        <h2>Lima, Peru</h2>
+        <h2>July 10-15, 2018</h2>
+        <p>Dear participants of the ISUD Congress: You can now find the information regarding HOTELS and other relevant information for your plans to travel to Lima in this</p>
+        <p>You will also find instructions for the payment of the registration and membership fees for you to be able to take care of that before coming to Lima.
+        Should you have any questions at this point, please contact us at isud2018@gmail.com and we will respond to your queries immediately.</p>
+        <p>The Organizing Committee</p>
+        <p>ISUD XII WORLD CONGRESS</p>
+        <p class="end">Lima 2018</p>
+      </div>
+      <div id="isudVideo">
+        <iframe class="isudVideo" src="https://www.youtube.com/embed/sF5n78x9LgE" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+      <div id="congress">
+        <h1>Congress Details</h1>
+        <p>July 10-15, 2018</p>
+        <p>Lima, Peru</p>
+        <p class="end">Email us with any questions at: isud2018@gmail.com</p>
+        <a href="http://dialogueanduniversalism.eu/">
+          <img id="DaU" src="media/DaU.png" alt="Dialogue and Universalism">
+          <p id="DaUText" class="end">Read current articles from the ISUD companion Journal Dialogue and Universalism!</p>
+        </a>
+      </div>
+    </main>
+    <footer>
+      <p><a href="mailto:isud2018@gmail.com">Email: isud2018@gmail.com</a></p>
+      <p><a href="https://github.com/Trident-WebDesigns/Project_2">©Trident-WebDesigns</a></p>
+      <a href="https://www.facebook.com/ISUDXIIWorldCongress"><img src="media/face.png" alt="facebook" class="face"></a>
+      <script src="JScript/script.js"></script>
+    </footer>
+  </body>
+</html>
